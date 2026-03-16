@@ -8,4 +8,4 @@
 
 [EVP text sphere on Babylon.js (Version 3 - BYTE Musical Attrcator + The text consists of pre-reserved words) | Babylon.js Playground](https://playground.babylonjs.com/#CUSZJX)
 
-[EVP text sphere on Babylon.js (Version 4 -A text sphere of reserved words in an endless stream of words without borders) | Babylon.js Playground](https://playground.babylonjs.com/#FB6DKV)
+[EVP text sphere on Babylon.js (Version 4 -A text sphere of reserved words in an endless stream of words without borders) | Babylon.js Playground](https://playground.babylonjs.com/#FB6DKV#1)
