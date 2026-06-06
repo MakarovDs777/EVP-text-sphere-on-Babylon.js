@@ -13,3 +13,5 @@
 [EVP text sphere on Babylon.js (Version 5 - The sphere of text from random sequences of sentences) | Babylon.js Playground](https://playground.babylonjs.com/#R69QO0#1)
 
 [EVP text sphere on Babylon.js (Version 6 - A text sphere with movement) | Babylon.js Playground](https://playground.babylonjs.com/#5G1KQP#1)
+
+[EVP text sphere on Babylon.js (Version 7 - A WORDS sphere with movement) | Babylon.js Playground](https://playground.babylonjs.com/#ZGGUCO)
